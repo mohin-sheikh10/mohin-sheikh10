@@ -4,7 +4,7 @@
 
 As a Junior Web Developer, I am enthusiastic about leveraging my skills and passion for coding to contribute to dynamic and innovative web projects. With a foundation in HTML, CSS, and JavaScript, I am eager to learn and adapt to new technologies and frameworks to enhance user experiences and solve complex problems.
 
-Skills: REACT / JS / HTML / CSS / TAILWIND CSS / GIT & GITHUB
+Skills: REACT / JAVASCRIPT / HTML / CSS / TAILWIND CSS / GIT & GITHUB
 
 - 🔭 I’m currently working on Fly Far International 
 - 🌱 I’m currently learning REACT JS 
